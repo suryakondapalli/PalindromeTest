@@ -38,7 +38,58 @@ PalindromeTest using Java
   </code></pre>
 
 <h2>input</h2>
-<p></p>
+<pre><code>
+
+public static void main(String[] args) {
+		
+		System.out.println(isPalindrome("civic"));
+		System.out.println(isPalindrome("abc"));
+		System.out.println(isPalindrome("Anna")); 
+		System.out.println(isPalindrome("Civic")); 
+		System.out.println(isPalindrome("Kayak")); 
+		System.out.println(isPalindrome("Level")); 
+		System.out.println(isPalindrome("Madam")); 
+		System.out.println(isPalindrome("Mom")); 
+		System.out.println(isPalindrome("Noon")); 
+		System.out.println(isPalindrome("Racecar")); 
+		System.out.println(isPalindrome("Radar")); 
+		System.out.println(isPalindrome("Redder")); 
+		System.out.println(isPalindrome("Refer")); 
+		System.out.println(isPalindrome("Repaper")); 
+		System.out.println(isPalindrome("Rotator")); 
+		System.out.println(isPalindrome("Rotor")); 
+		System.out.println(isPalindrome("Sagas")); 
+		System.out.println(isPalindrome("Solos")); 
+		System.out.println(isPalindrome("Stats")); 
+		System.out.println(isPalindrome("Tenet")); 
+		System.out.println(isPalindrome("Wow")); 
+		
+
+	}
+
+</code></pre>
 
 <h2>output</h2>
-<p></p/>
+<pre><code>
+true
+false
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+</code></pre>
