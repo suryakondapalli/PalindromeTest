@@ -1,6 +1,11 @@
 # PalindromeTest
+<p>
 PalindromeTest using Java
-
+I created the Palindrome Function using Java.
+Declare the beginning, middle, and end index of the input parameter.
+Compares the start and end values, if they are the same, return true, if they are not, return false.
+Use the toUpperCase method to distinguish between uppercase and lowercase letters.
+</p>
 <h2>Source Code</h2>
   <pre><code>
   
