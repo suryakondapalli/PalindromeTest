@@ -8,12 +8,11 @@ Use the toUpperCase method to distinguish between uppercase and lowercase letter
 </p>
 <h2>Source Code</h2>
   <pre><code>
-  
+  public class PalindromeTest {
   static boolean isPalindrome(String input) {
-		boolean result;
-		int length  = input.length();
+	    boolean result;
+	    int length  = input.length();
 	    int i, begin, end, middle;
-	 
 	    begin  = 0;
 	    end    = length - 1;
 	    middle = (begin + end)/2;
@@ -39,7 +38,7 @@ Use the toUpperCase method to distinguish between uppercase and lowercase letter
 		
 		return result;
 	}
-  
+  }
   </code></pre>
 
 <h2>input</h2>
