@@ -1,8 +1,7 @@
 # PalindromeTest
 PalindromeTest using Java
 
-<h1>Source Code<h1>
-<p>
+<h2>Source Code</h2>
   <pre><code>
   
   static boolean isPalindrome(String input) {
@@ -37,8 +36,6 @@ PalindromeTest using Java
 	}
   
   </code></pre>
-  
-</p>
 
 <h2>input</h2>
 <p></p>
