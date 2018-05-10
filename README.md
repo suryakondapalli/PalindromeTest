@@ -3,9 +3,7 @@ PalindromeTest using Java
 
 <h1>Source Code<h1>
 <p>
-  
-  
-  
+  <pre><code>
   
   static boolean isPalindrome(String input) {
 		boolean result;
@@ -38,7 +36,7 @@ PalindromeTest using Java
 		return result;
 	}
   
-  
+  </code></pre>
   
 </p>
 
