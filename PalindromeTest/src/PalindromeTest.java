@@ -37,7 +37,7 @@ public class PalindromeTest {
 	public static void main(String[] args) {
 		
 		System.out.println(isPalindrome("civic"));
-		System.out.println(isPalindrome("abc"));
+		System.out.println(isPalindrome("liril"));
 		System.out.println(isPalindrome("Anna")); 
 		System.out.println(isPalindrome("Civic")); 
 		System.out.println(isPalindrome("Kayak")); 
